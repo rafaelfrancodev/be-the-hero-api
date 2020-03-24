@@ -24,6 +24,15 @@ app.use(express.json());
  * HTTP / Methods
  */
 
+ /**
+  * knex query builder for node for sql
+  * http://knexjs.org/
+  * 
+  * npm i knex
+  * npm i sqlite3
+  * npx knex init
+  */
+
 // route get
 app.post('/users', (request, response) => {
     const params = request;
