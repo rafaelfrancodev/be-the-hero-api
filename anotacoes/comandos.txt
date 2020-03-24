@@ -1,0 +1,16 @@
+- - KNEX
+http://knexjs.org/#Installation-migrations
+
+-- criar migrations
+
+Dell.Gamming@DESKTOP-ALSFFC3 MINGW64 /c/_APPS/_estudos/_omnistack_11/be-the-hero-api (master)
+$ npx knex migrate:make create_ongs 
+
+-- executando as migrations
+Dell.Gamming@DESKTOP-ALSFFC3 MINGW64 /c/_APPS/_estudos/_omnistack_11/be-the-hero-api (master)
+$ npx knex migrate:latest
+Using environment: development
+Batch 1 run: 1 migrations
+
+
+
