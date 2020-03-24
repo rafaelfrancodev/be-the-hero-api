@@ -31,7 +31,8 @@ app.post('/users', (request, response) => {
     console.log("Params", params.request);    
     console.log("Body", params.body);    
     return response.json({
-        event: 'OmniStacl 11.0'
+        event: 'OmniStacl 11.0',
+        student: "Rafael Franco"
     });
 });
 
