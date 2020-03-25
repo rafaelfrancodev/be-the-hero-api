@@ -14,3 +14,5 @@ Batch 1 run: 1 migrations
 
 
 
+1:26 min
+https://rocketseat.com.br/week/aulas/11.0?aula=2
