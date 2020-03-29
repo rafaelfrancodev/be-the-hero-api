@@ -24,3 +24,5 @@ https://jestjs.io/
 
 init tests
 npx jest --init
+
+https://github.com/visionmedia/supertest
