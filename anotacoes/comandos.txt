@@ -16,3 +16,8 @@ Batch 1 run: 1 migrations
 
 1:26 min
 https://rocketseat.com.br/week/aulas/11.0?aula=2
+
+celebrate - integra o join com o express para validações
+https://github.com/arb/celebrate
+https://github.com/hapijs/joi 
+https://hapi.dev/module/joi/ 
