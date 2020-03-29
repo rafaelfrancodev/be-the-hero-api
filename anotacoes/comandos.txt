@@ -28,3 +28,10 @@ npx jest --init
 https://github.com/visionmedia/supertest
 
 52:34
+
+deploys - backend node
+digital ocean
+heroku 
+
+deploys - front end
+netlify
